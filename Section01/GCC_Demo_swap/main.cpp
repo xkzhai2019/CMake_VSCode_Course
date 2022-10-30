@@ -1,7 +1,8 @@
 #include "swap.h"
 
 int main(int argc,char **argv){
-	swap myswap(10,20);
+    double b;
+    swap myswap(10,20);
 
 	std::cout<<"Before swap:"<<std::endl;
 	myswap.printInfo();
