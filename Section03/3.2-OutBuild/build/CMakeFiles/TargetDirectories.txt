@@ -1,0 +1,3 @@
+/home/xkzhai/Linux_C/Section03/3.2-OutBuild/build/CMakeFiles/helloworld_cmake.dir
+/home/xkzhai/Linux_C/Section03/3.2-OutBuild/build/CMakeFiles/edit_cache.dir
+/home/xkzhai/Linux_C/Section03/3.2-OutBuild/build/CMakeFiles/rebuild_cache.dir
